@@ -32,5 +32,5 @@
 </ul>  
 <h2>Model Prediction</h2>
 <img src="https://github.com/NavinBondade/Bitcoin-Price-Prediction-With-GRU-R2-Score-0.98-/blob/main/Bitcon%20Price%20Predection%20Plus%20Forecasting/Graph/Forecasting%20and%20Prediction.png?raw=true">
-<p>Even without having trend, season, and patterns in time-series, the model has forecasted the next 50 days price of Bitcoin very accurately.</p>  
+<p>Even without having trend, season, and patterns in time-series, the GRU based deep learning model has forecasted the next 50 days price of Bitcoin very accurately.</p>  
 
