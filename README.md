@@ -12,5 +12,5 @@
   <li>Sklearn</li>
 </ul> 
 <h2>Data Visualization</h2>
-<h3>Bitcoin Price (High) Complete Time Series</h3>  
+<li><h3>Bitcoin Price (High) Complete Time Series</h3></li>  
 <img src="https://github.com/NavinBondade/Bitcoin-Price-Prediction-With-GRU-R2-Score-0.98-/blob/main/Bitcon%20Price%20Predection%20Plus%20Forecasting/Graph/Bitcoin%20Price%20High.png?raw=true">
