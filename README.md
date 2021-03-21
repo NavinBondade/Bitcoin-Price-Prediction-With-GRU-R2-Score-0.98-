@@ -30,5 +30,7 @@
   <li>Root Mean Squared Error: 1.77</li>
   <li>R2 Score: 0.98</li>
 </b>  
+<h2>Model Prediction</h2>
+<img src="https://github.com/NavinBondade/Bitcoin-Price-Prediction-With-GRU-R2-Score-0.98-/blob/main/Bitcon%20Price%20Predection%20Plus%20Forecasting/Graph/Forecasting%20and%20Prediction.png?raw=true">
   
 
