@@ -24,12 +24,12 @@
 <img src="https://github.com/NavinBondade/Bitcoin-Price-Prediction-With-GRU-R2-Score-0.98-/blob/main/Bitcon%20Price%20Predection%20Plus%20Forecasting/Graph/loss.png" width="450" height="300">
 <p>The model was trained for 20 epochs with batch size of 1000. After training process the model has shown <b>loss of 9.9850e-04.</b></p>
 <h2>Model Evaluation</h2>
-<b>
+
 <ul>
-  <li>Mean Squared Error: 3.13</li>
-  <li>Root Mean Squared Error: 1.77</li>
-  <li>R2 Score: 0.98</li>
-</b>  
+  <li><b>Mean Squared Error: 3.13</b></li>
+  <li><b>Root Mean Squared Error: 1.77</b></li>
+  <li><b>R2 Score: 0.98</b></li> 
+</ul>  
 <h2>Model Prediction</h2>
 <img src="https://github.com/NavinBondade/Bitcoin-Price-Prediction-With-GRU-R2-Score-0.98-/blob/main/Bitcon%20Price%20Predection%20Plus%20Forecasting/Graph/Forecasting%20and%20Prediction.png?raw=true">
   
