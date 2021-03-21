@@ -22,4 +22,4 @@
 <p>The deep learning model at its core uses Gated Recurrent Units (GRU) which is a type of Recurrent Neural Network (RNN) for learning long-term dependencies and avoiding vanishing gradient problems. GRU also has a fewer number of gates than Long Short Term Memory (LSTM), which facilitates less memory usage and much faster traning. The model uses three GRU layers for learning long-term dependencies and three dense neural network layers for decision making. All the layers use RELU as an activation function except the last one.During training, the model uses Adam as an optimizer for performing backpropagation and uses mean squared error as the loss function. 
 <h2>Model Training</h2>
 <img src="https://github.com/NavinBondade/Bitcoin-Price-Prediction-With-GRU-R2-Score-0.98-/blob/main/Bitcon%20Price%20Predection%20Plus%20Forecasting/Graph/loss.png" width="450" height="300">
-<p>The model was trained for 20 epochs with batch size of 1000. After training process the model has shown loss of 9.9850e-04</p>
+<p>The model was trained for 20 epochs with batch size of 1000. After training process the model has shown <b>loss of 9.9850e-04.</b></p>
