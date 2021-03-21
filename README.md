@@ -12,3 +12,6 @@
   <li>Sklearn</li>
 </ul> 
 <h2>Data Visualization</h2>
+<ul>
+  <li>Bitcoin Price (High) Complete Time Series</li>
+</ul>  
