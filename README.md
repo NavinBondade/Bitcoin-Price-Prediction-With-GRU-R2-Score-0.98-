@@ -1,4 +1,9 @@
 # Bitcoin Price Prediction & Forecasting With <br> R2 Score Of 0.98 & Root Mean Squared Error Of 1.17
+<p align="center">
+<a href="https://nbviewer.jupyter.org/github/NavinBondade/Forecasting-The-Bitcoin-Price-With-An-R2-Score-Of-0.98-MSE-Of-1.17/blob/main/Bitcon%20Price%20Predection%20Plus%20Forecasting/NoteBook/Bitcoin_Price_Prediction_With_GRU_%28R2_Score_%3D_0_98_%29_.ipynb" target="_blank">
+  <img align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(4).png?raw=true"/>
+</a>
+</p>
 <img src="https://masterthecrypto.com/wp-content/uploads/2019/11/BITCOIN-PRICE.jpg" width="900" height="530">
 <p>Bitcoin is one of the world's most popular and valued cryptocurrencies since its invention in 2008 bitcoin has shown a massive jump in its price and established itself as a potential investment for investors. But the major thing that goes against investing in Bitcoin is its volatile nature, and it's not the authority of someone. Also, bitcoin is quite volatile, which makes it more difficult to predict its price. To eliminate this cumbersome task, I have created a deep learning system that is capable of predicting and forecasting bitcoin prices with a <b>root mean square error of just 1.77.</b></p>
 <h2>Libraries Used</h2>
