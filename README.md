@@ -1,4 +1,4 @@
-# Bitcoin Price Prediction & Forecasting With <br> R2 Score Of 0.98 & Root Mean Squared Error Of 1.17
+# Precision Forecasting in Volatile Markets: An Advanced Deep Learning Model for Accurate Bitcoin Price Prediction
 <p align="center">
 <a href="https://nbviewer.jupyter.org/github/NavinBondade/Forecasting-The-Bitcoin-Price-With-An-R2-Score-Of-0.98-MSE-Of-1.17/blob/main/Bitcon%20Price%20Predection%20Plus%20Forecasting/NoteBook/Bitcoin_Price_Prediction_With_GRU_%28R2_Score_%3D_0_98_%29_.ipynb" target="_blank">
   <img align="center"  src="https://github.com/NavinBondade/Distinguishing-Fake-And-Real-News-With-Deep-Learning/blob/main/Graphs/button_if-github-fails-to-load-the-notebook-click-here%20(4).png?raw=true"/>
