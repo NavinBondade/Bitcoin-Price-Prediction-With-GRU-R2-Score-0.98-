@@ -48,6 +48,6 @@ This architecture enables the model to deliver precise and reliable Bitcoin pric
 </ul>  
 <h2>Model Prediction</h2>
 <img src="https://github.com/NavinBondade/Bitcoin-Price-Prediction-With-GRU-R2-Score-0.98-/blob/main/Bitcon%20Price%20Predection%20Plus%20Forecasting/Graph/Forecasting%20and%20Prediction.png?raw=true">
-<p>Even without having trends, seasons, and patterns in time series, the GRU-based deep learning model has forecasted the next 50 days' price of Bitcoin very accurately.</p>  
+<p>The GRU-based deep learning model has demonstrated remarkable predictive accuracy in forecasting Bitcoin prices over the next 50 days, even in the absence of clear trends, seasonal patterns, or discernible temporal structures. This achievement underscores the model's robust capacity to learn complex dependencies within the data, leveraging the architecture of Gated Recurrent Units (GRUs). By effectively capturing the underlying dynamics and subtle fluctuations in the time series data, the model delivers reliable forecasts, highlighting its potential as a powerful tool for financial analysis and decision-making, where traditional models might struggle to perform under similar conditions.</p>  
 <h2>Conclusion</h2>
 <p>In this project, I have created a Gated Recurrent Units based deep learning model which is capable of predicting and forecasting bitcoin prices with a Root Mean Squared Error of 1.7 and R2 Score of 0.98.</p>
