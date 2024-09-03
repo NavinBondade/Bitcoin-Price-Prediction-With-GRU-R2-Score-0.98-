@@ -5,7 +5,11 @@
 </a>
 </p>
 <img src="https://masterthecrypto.com/wp-content/uploads/2019/11/BITCOIN-PRICE.jpg" width="900" height="530">
-<p>Bitcoin is one of the world's most popular and valued cryptocurrencies since its invention in 2008 bitcoin has shown a massive jump in its price and established itself as a potential investment for investors. But the major thing that goes against investing in Bitcoin is its volatile nature, and it's not the authority of someone. Also, bitcoin is quite volatile, which makes it more difficult to predict its price. To eliminate this cumbersome task, I have created a deep learning system that is capable of predicting and forecasting bitcoin prices with a <b>root mean square error of just 1.77.</b></p>
+<p>Bitcoin, a pioneering cryptocurrency introduced in 2008, has rapidly ascended to prominence due to its significant price appreciation and appeal as an investment asset. However, the primary challenge associated with Bitcoin investment is its pronounced volatility, which complicates price prediction and forecasting. The decentralized nature of Bitcoin further amplifies the difficulty in establishing authoritative market predictions.
+
+To address these challenges, I have developed an advanced deep-learning system designed to predict and forecast Bitcoin prices with high precision. This system leverages state-of-the-art deep learning techniques to analyze complex patterns and trends in historical price data. Notably, it has achieved an impressive Root Mean Square Error (RMSE) of just 1.77, indicating a high level of accuracy in its predictions.
+
+The deep learning model incorporates sophisticated algorithms that enable it to capture and interpret the underlying dynamics of Bitcoin's price movements. By minimizing prediction errors, the system offers a reliable tool for investors and analysts seeking to navigate the volatile cryptocurrency market with enhanced confidence and strategic insight.</p>
 <h2>Libraries Used</h2>
 <ul>
   <li>Tensorflow</li>
